@@ -1,6 +1,19 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bash
 ALX School is so cool!
+=======
+ALX School
+>>>>>>> update_script
+||||||| 4352684
+#!/bin/bash
+ALX
+#!/bin/bash
+echo "ALX" 
+#!/bin/bash
+echo "ALX" 
+#!/bin/bash
+echo ALX
 =======
 ALX School
 >>>>>>> update_script
